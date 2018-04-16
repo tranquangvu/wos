@@ -1,0 +1,42 @@
+_fixture:
+  model_class: Menu
+
+menu_burger:
+  name: Buger
+  weight: 0
+
+menu_combo:
+  name: Combo
+  weight: 1
+
+menu_dessert_and_beverage:
+  name: Dessert & Beverage
+  weight: 2
+
+menu_jumbo:
+  name: Jumbo
+  weight: 3
+
+menu_large:
+  name: Large
+  weight: 4
+
+menu_original_recipe_chicken:
+  name: Original Recipe Chicken
+  weight: 5
+
+menu_regular:
+  name: Regular
+  weight: 6
+
+menu_rice:
+  name: Rice
+  weight: 7
+
+menu_snack:
+  name: Snack
+  weight: 8
+
+menu_today_up_sale:
+  name: Today up sale
+  weight: 9

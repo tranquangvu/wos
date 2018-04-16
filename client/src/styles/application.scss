@@ -1,0 +1,28 @@
+// VENDORS
+@import '~antd/dist/antd.css';
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+// SHARED
+@import './shared/variable.scss';
+@import './shared/mixin.scss';
+@import './theme.scss';
+
+// CONTAINERS
+@import './containers/Layouts/MainHeader.scss';
+@import './containers/Layouts/MainFooter.scss';
+@import './containers/Layouts/MainSider.scss';
+@import './containers/Modals/ModifierModal.scss';
+@import './containers/Modals/CouponModal.scss';
+@import './containers/Home/Home.scss';
+@import './containers/Home/ProductItem.scss';
+@import './containers/Home/ProductCategory.scss';
+@import './containers/Item/Item.scss';
+@import './containers/Item/ItemOrderGroup.scss';
+@import './containers/Cart/Cart.scss';
+@import './containers/Cart/SelectLocation.scss';
+@import './containers/Cart/SelectOrderType.scss';
+@import './containers/Promotions/Promotions.scss';
+@import './containers/OrderDetail/OrderDetail.scss';
+@import './containers/PhoneVerify/PhoneVerify.scss';
+@import './containers/CodeVerify/CodeVerify.scss';

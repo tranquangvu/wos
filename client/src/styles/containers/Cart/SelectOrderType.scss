@@ -1,0 +1,55 @@
+.select-order-type-container {
+  min-height: calc(100vh - 100px);
+  margin: 50px 0;
+  background: $white;
+  padding: 10px;
+
+  .select-order-type-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: $red;
+
+    &.inform-title {
+      margin-bottom: 10px;
+    }
+  }
+
+  .order-type-radio-group .ant-radio-wrapper {
+    font-size: 14px;
+    color: rgba($black, .6);
+  }
+
+  .select-order-type-form {
+    .ant-form-item-label label {
+      font-size: 14px;
+      color: rgba($black, .6);
+    }
+
+    .ant-input {
+      height: 36px;
+      line-height: 36px;
+      font-size: 14px;
+    }
+  }
+
+  .ant-form-item {
+    margin-bottom: 10px;
+  }
+
+  .submit-cart-button {
+    display: block;
+    width: 100%;
+    height: auto;
+    color: $white;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: bold;
+    background: $red;
+    border-color: $red !important;
+    margin: 25px 0;
+
+    &:after {
+      display: none !important;
+    }
+  }
+}

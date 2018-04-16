@@ -1,0 +1,47 @@
+.main-header-container {
+  background: $orange;
+  padding: 0 0 0 35px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  height: 50px;
+
+  .header-toggle-sidebar {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-size: 25px;
+    line-height: 50px;
+    color: $white;
+  }
+
+  .header-title {
+    color: $white;
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: bold;
+  }
+
+  .header-basket-info {
+    position: absolute;
+    right: 20px;
+    top: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+    .basket-icon {
+      color: $white;
+      display: inline-block;
+      height: 25px;
+    }
+
+    .ant-badge-count {
+      background: $green;
+      font-family: inherit;
+      font-weight: bold;
+    }
+  }
+}

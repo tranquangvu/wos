@@ -1,0 +1,132 @@
+.item-modifier-groups-container {
+  text-align: left;
+  margin-top: 10px;
+
+  h2 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .item-modifier-group {
+    margin-bottom: 10px;
+
+    .item-modifier-group-name {
+      color: $red;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 5px;
+
+      i {
+        margin-right: 7.5px;
+      }
+    }
+
+    .item-modifier {
+      margin-bottom: 5px;
+      font-size: 14px;
+
+      .item-modifier-name {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        padding-right: 5px;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto;
+        width: 40px;
+        height: 40px;
+        background: $white;
+        border: 1px solid $yellow;
+        border-radius: 8px;
+      }
+
+      .ant-input-number {
+        input {
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  .ant-form-item {
+    margin-bottom: 0;
+  }
+}
+
+.item-order-container {
+  margin-top: 10px;
+  padding: 10px 0;
+  text-align: left;
+  border-top: 1px dashed #9e9e9e;
+
+  h2 {
+    font-weight: bold;
+    color: $red;
+  }
+}
+
+.item-order-count {
+  margin-bottom: 10px;
+
+  .ant-input-number {
+    input {
+      text-align: center;
+    }
+  }
+
+  .ant-form-item {
+    margin-bottom: 0;
+  }
+}
+
+.item-order-total-price {
+  margin-bottom: 10px;
+
+  .total-price {
+    color: $white;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 0 15px;
+    background: $orange;
+    border-radius: 15px;
+    float: right;
+  }
+}
+
+.add-to-basket-button {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: $white;
+  font-size: 18px;
+  line-height: 50px;
+  font-weight: bold;
+  background: $red;
+  border-color: $red !important;
+
+  &:after {
+    display: none !important;
+  }
+}
+
+.input-number-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+
+  .input-number-decrease-button, .input-number-increase-button {
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+  }
+
+  .input-number {
+    width: 60px;
+    margin: 0 5px;
+  }
+}

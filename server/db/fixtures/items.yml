@@ -1,0 +1,460 @@
+_fixture:
+  model_class: Item
+
+# Bugger
+item_1001506:
+  code: 1001506
+  name: Flava Roast Burger
+  price: 45000
+  menu: menu_burger
+  image: Flava_Roast_Burger.jpg
+
+item_1001512:
+  code: 1001512
+  name: Ocean Burger
+  price: 22000
+  menu: menu_burger
+  image: Ocean_Burger.jpg
+
+item_1001504:
+  code: 1001504
+  name: Shrimp Burger
+  price: 39000
+  menu: menu_burger
+  image: Shrimp_Burger.jpg
+
+item_1001505:
+  code: 1001505
+  name: Zinger Burger
+  price: 49000
+  menu: menu_burger
+  image: Zinger_Burger.jpg
+
+# Combo
+item_1002731:
+  code: 1002731
+  name: Chicky Meal
+  price: 63000
+  menu: menu_combo
+  image: Chicky_Meal.png
+
+item_1001610:
+  code: 1001610
+  name: Combo Original Recipe Chicken A
+  price: 101250
+  menu: menu_combo
+  image: Combo_Original_Recipe_Chicken_A.jpg
+
+item_1001706:
+  code: 1001706
+  name: Combo Shrimp Burger
+  price: 284000
+  menu: menu_combo
+  image: Combo_Shrimp_Burger.jpg
+
+item_1001699:
+  code: 1001699
+  name: Combo Zinger Burger
+  price: 284000
+  menu: menu_combo
+  image: Combo_Zinger_Burger.jpg
+
+item_1002745:
+  code: 1002745
+  name: XL Meal
+  price: 113000
+  menu: menu_combo
+  image: XL_Meal.jpg
+
+# Dessert & Beverage
+item_1001578:
+  code: 1001578
+  name: Aquafina
+  price: 15000
+  menu: menu_dessert_and_beverage
+  image: Aquafina.png
+
+item_1001568:
+  code: 1001568
+  name: Coated Chocolate
+  price: 10000
+  menu: menu_dessert_and_beverage
+  image: Coated_Chocolate.jpg
+
+item_1002721:
+  code: 1002721
+  name: Corn
+  price: 3000
+  menu: menu_dessert_and_beverage
+  image: KFC_DB_Corn.png
+
+item_1001571:
+  code: 1001571
+  name: Egg Tart (1Pcs)
+  price: 30000
+  menu: menu_dessert_and_beverage
+  image: Egg_Tart_(1Pcs).jpg
+
+item_1001572:
+  code: 1001572
+  name: Egg Tart (4Pcs)
+  price: 90000
+  menu: menu_dessert_and_beverage
+  image: Egg_Tart_(4Pcs).jpg
+
+item_1001579:
+  code: 1001579
+  name: Evian
+  price: 25000
+  menu: menu_dessert_and_beverage
+  image: KFC_DB_Evian.png
+
+item_1001570:
+  code: 1001570
+  name: Hot Pie
+  price: 24000
+  menu: menu_dessert_and_beverage
+  image: Hot_Pie.jpg
+
+item_1001575:
+  code: 1001575
+  name: Iced Milo
+  price: 40000
+  menu: menu_dessert_and_beverage
+  image: Iced_Milo.png
+
+item_1001580:
+  code: 1001580
+  name: Kreamball
+  price: 25000
+  menu: menu_dessert_and_beverage
+  image: Kreamball.png
+
+item_1001574:
+  code: 1001574
+  name: Pepsi (L)
+  price: 17000
+  menu: menu_dessert_and_beverage
+  image: Pepsi_(L).jpg
+
+item_1001573:
+  code: 1001573
+  name: Pepsi (R)
+  price: 10000
+  menu: menu_dessert_and_beverage
+  image: Pepsi_(R).jpg
+
+item_1001577:
+  code: 1001577
+  name: Pepsi Diet
+  price: 20000
+  menu: menu_dessert_and_beverage
+  image: Pepsi_Diet.jpg
+
+item_1001567:
+  code: 1001567
+  name: Soft Serve Cone
+  price: 6000
+  menu: menu_dessert_and_beverage
+  image: Soft_Serve_Cone.png
+
+item_1001569:
+  code: 1001569
+  name: Soft Serve Sundae
+  price: 30000
+  menu: menu_dessert_and_beverage
+  image: Soft_Serve_Sundae_Bar.jpg
+
+item_1001576:
+  code: 1001576
+  name: Twister
+  price: 15000
+  menu: menu_dessert_and_beverage
+  image: Twister.jpg
+
+# Jumbo
+item_1001556:
+  code: 1001556
+  name: Coleslaw (J)
+  price: 32000
+  menu: menu_jumbo
+  image: Coleslaw_(R).jpg
+
+item_1001550:
+  code: 1001550
+  name: French Fries (J)
+  price: 35000
+  menu: menu_jumbo
+  image: French_Fries_(J).jpg
+
+item_1001553:
+  code: 1001553
+  name: Mashed Potato (J)
+  price: 60000
+  menu: menu_jumbo
+  image: Mashed_Potato_(J).jpg
+
+# Large
+item_1001555:
+  code: 1001555
+  name: Coleslaw (L)
+  price: 22000
+  menu: menu_large
+  image: Coleslaw_(R).jpg
+
+item_1001549:
+  code: 1001549
+  name: French Fries (L)
+  price: 25000
+  menu: menu_large
+  image: French_Fries_(J).jpg
+
+item_1001552:
+  code: 1001552
+  name: Mashed Potato (L)
+  price: 20000
+  menu: menu_large
+  image: Mashed_Potato_(J).jpg
+
+# Original Recipe Chicken
+item_1002679:
+  code: 1002679
+  name: Big N Juicy
+  price: 128000
+  menu: menu_original_recipe_chicken
+  image: BigNJuicy.jpg
+
+item_1002675:
+  code: 1002675
+  name: Black Pepper Foilicious
+  price: 128000
+  menu: menu_original_recipe_chicken
+  image: BlackPepperFoilicious.jpg
+
+item_1002667:
+  code: 1002667
+  name: Hot Wings (3 Pcs)
+  price: 94000
+  menu: menu_original_recipe_chicken
+  image: HotWings3pcs.jpg
+
+item_1002671:
+  code: 1002671
+  name: Hot Wings (5 pcs)
+  price: 69000
+  menu: menu_original_recipe_chicken
+  image: HotWings5pcs.jpg
+
+item_1001484:
+  code: 1001484
+  name: Original Recipe Chicken (01 Pcs)
+  price: 34000
+  menu: menu_original_recipe_chicken
+  image: KFC_Or_Chk_1.png
+
+item_1001485:
+  code: 1001485
+  name: Original Recipe Chicken (03 Pcs)
+  price: 190000
+  menu: menu_original_recipe_chicken
+  image: KFC_Or_Chk_3.png
+
+item_1001486:
+  code: 1001486
+  name: Original Recipe Chicken (06 Pcs)
+  price: 368000
+  menu: menu_original_recipe_chicken
+  image: KFC_Or_Chk_6.png
+
+item_1001487:
+  code: 1001487
+  name: Original Recipe Chicken (09 Pcs)
+  price: 550000
+  menu: menu_original_recipe_chicken
+  image: KFC_Or_Chk_9.png
+
+item_1001596:
+  code: 1001596
+  name: Original Recpie Chicken 02 Pcs
+  price: 34000
+  menu: menu_original_recipe_chicken
+  image: KFC_Or_Chk_1.png
+
+# Regular
+item_1001554:
+  code: 1001554
+  name: Coleslaw (R)
+  price: 12000
+  menu: menu_regular
+  image: Coleslaw_(R).jpg
+
+item_1001548:
+  code: 1001548
+  name: French Fries (R)
+  price: 12000
+  menu: menu_regular
+  image: French_Fries_(J).jpg
+
+item_1001551:
+  code: 1001551
+  name: Mashed Potator (R)
+  price: 10000
+  menu: menu_regular
+  image: Mashed_Potato_(J).jpg
+
+# Rice
+item_1002708:
+  code: 1002708
+  name: Black Pepper Drumstick Rice
+  price: 78000
+  menu: menu_rice
+  image: KFC_Rice_BlackPepperDrumstick.jpg
+
+item_1002684:
+  code: 1002684
+  name: Black Pepper Fillet Rice Bucket
+  price: 39000
+  menu: menu_rice
+  image: Black_Pepper_Fillet_Rice_Bucket.jpg
+
+item_1002700:
+  code: 1002700
+  name: Chicken Rice
+  price: 39000
+  menu: menu_rice
+  image: KFC_Rice_ChickenRice.jpg
+
+item_1002688:
+  code: 1002688
+  name: Flava Roast Fillet Rice Bucket
+  price: 39000
+  menu: menu_rice
+  image: Flava_Roast_Fillet_Rice_Bucket.jpg
+
+item_1002696:
+  code: 1002696
+  name: Popcorn Rice Bucket
+  price: 39000
+  menu: menu_rice
+  image: Popcorn_Rice_Bucket.png
+
+# Snack
+item_1001514:
+  code: 1001514
+  name: Black Pepper Fillet Chicken Rice
+  price: 39000
+  menu: menu_snack
+  image: Snack_Black_Pepper.jpg
+
+item_1001507:
+  code: 1001507
+  name: Caesar Go Go
+  price: 88000
+  menu: menu_snack
+  image: KFC_Snack_Caesar.png
+
+item_1001513:
+  code: 1001513
+  name: Chicken Salad
+  price: 29000
+  menu: menu_snack
+  image: Chicken_Salad.jpg
+
+item_1001511:
+  code: 1001511
+  name: Chicken Soup
+  price: 28000
+  menu: menu_snack
+  image: Chicken_Soup.png
+
+item_1001497:
+  code: 1001497
+  name: Crispy Strips Chicken 3Pcs
+  price: 40000
+  menu: menu_snack
+  image: Crispy_Strips_Chicken_3Pcs.jpg
+
+item_1001498:
+  code: 1001498
+  name: Crispy Strips Chicken 5Pcs
+  price: 61000
+  menu: menu_snack
+  image: Crispy_Strips_Chicken_5Pcs.png
+
+item_1001508:
+  code: 1001508
+  name: Firsh Go Go
+  price: 40000
+  menu: menu_snack
+  image: KFC_Snack_Fish_Go_Go.png
+
+item_1001503:
+  code: 1001503
+  name: Firsh Sticks (3 Pcs)
+  price: 80000
+  menu: menu_snack
+  image: KFC_Snack_Fish_Stick.png
+
+item_1001509:
+  code: 1001509
+  name: Flava Roast Chicken Rice
+  price: 39000
+  menu: menu_snack
+  image: KFC_Snack_Flava_Roast_Chicken.png
+
+item_1001499:
+  code: 1001499
+  name: Hot Wings (3 Pcs)
+  price: 47000
+  menu: menu_snack
+  image: KFC_Snack_KFC_Hot_Wing.png
+
+item_1001500:
+  code: 1001500
+  name: Hot Wings (5 Pcs)
+  price: 138000
+  menu: menu_snack
+  image: KFC_Snack_KFC_Hot_Wing_5.png
+
+item_1001510:
+  code: 1001510
+  name: Original Recipe Chicken Rice
+  price: 39000
+  menu: menu_snack
+  image: KFC_Snack_Orignal_Recipe.png
+
+item_1001502:
+  code: 1001502
+  name: Popcorn Chicken (L)
+  price: 61000
+  menu: menu_snack
+  image: Popcorn_Chicken_(L).jpg
+
+item_1001501:
+  code: 1001501
+  name: Popcorn Chicken (R)
+  price: 40000
+  menu: menu_snack
+  image: Popcorn_Chicken_(L).jpg
+
+item_1001515:
+  code: 1001515
+  name: Rice
+  price: 13000
+  menu: menu_snack
+  image: KFC_Snack_Rice.png
+
+# Today up sale
+item_1002692:
+  code: 1002692
+  name: Crispy Strips Rice Bucket
+  price: 78000
+  menu: menu_today_up_sale
+  image: Rice_CrispeStrips.jpg
+
+item_1002704:
+  code: 1002704
+  name: Flava Roast Rice
+  price: 39000
+  menu: menu_today_up_sale
+  image: KFC_Rice_FlavaRoastRice.jpg

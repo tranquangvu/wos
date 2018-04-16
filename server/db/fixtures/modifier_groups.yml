@@ -1,0 +1,86 @@
+_fixture:
+  model_class: ModifierGroup
+
+modifier_group_food:
+  code: 1000288
+  name: Food
+
+modifier_group_open:
+  code: 1000289
+  name: Open
+
+modifier_group_size:
+  code: 1000546
+  name: Size
+
+modifier_group_drink:
+  code: 1000567
+  name: Drink
+
+modifier_group_crust:
+  code: 1000579
+  name: Crust
+
+modifier_group_pizza_half:
+  code: 1001237
+  name: Pizza Half
+
+modifier_group_orignal_recipe_chicken:
+  code: 1001599
+  name: Orignal Recipe Chicken
+
+modifier_group_french_fries:
+  code: 1001601
+  name: French Fries
+
+modifier_group_pepsi:
+  code: 1001603
+  name: Pepsi
+
+modifier_group_mased_potato_r:
+  code: 1001620
+  name: Mased Potato (R)
+
+modifier_group_coleslaw_r:
+  code: 1001622
+  name: Coleslaw (R)
+
+modifier_group_buger:
+  code: 1001691
+  name: Buger
+
+modifier_group_chicky_meal_g1:
+  code: 1002712
+  name: ChickyMeal_G1
+
+modifier_group_chicky_meal_g2:
+  code: 1002717
+  name: ChickyMeal_G2
+
+modifier_group_chicky_meal_g3:
+  code: 1002720
+  name: ChickyMeal_G3
+
+modifier_group_xlmeal_g1:
+  code: 1002734
+  name: XLMeal_G1
+
+modifier_group_share_n_joy_a_g1:
+  code: 1002748
+  name: Share N Joy A (G1)
+
+modifier_group_french_fires_j:
+  code: 1002750
+  name: French Fires (J)
+
+modifier_group_mased_opotato_j:
+  code: 1002752
+  name: Mased Potato (J)
+
+modifier_group_buger_add_on:
+  code: 1003865
+  name: Buger Add On
+
+modifier_group_note:
+  code: 1004176
+  name: Note

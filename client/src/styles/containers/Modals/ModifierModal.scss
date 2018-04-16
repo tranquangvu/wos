@@ -1,0 +1,47 @@
+.modifier-modal-container {
+  .ant-modal-close-x {
+    color: $white;
+    height: 62px;
+    line-height: 62px;
+  }
+
+  .ant-modal-header {
+    background: $orange;
+    padding: 20px 48px 20px 16px;
+
+    .ant-modal-title {
+      color: $white;
+      font-weight: bold;
+      font-size: 20px;
+    }
+  }
+
+  .ant-modal-body {
+    padding: 15px 16px 10px 16px;
+
+    .item-name {
+      font-weight: bold;
+      color: $red;
+      font-size: 22px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .item-price {
+      color: $orange;
+      font-weight: bold;
+      font-size: 18px;
+      text-align: right;
+    }
+  }
+
+  .ant-modal-footer .ant-btn-primary {
+    background: $red;
+    border-color: $red;
+
+    &:after {
+      display: none !important;
+    }
+  }
+}

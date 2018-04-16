@@ -1,0 +1,42 @@
+.main-footer-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  border-top: 1px solid rgba($black, .1);
+
+  .footer-navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: $white;
+
+    .footer-navigation-item {
+      flex: 1;
+    }
+
+    .footer-navigation-link {
+      color: rgba($black, .4);
+      padding: 7px 0 5px 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: all ease .15s;
+
+      i {
+        font-size: 18px;
+      }
+
+      span {
+        line-height: 20px;
+      }
+
+      &.active {
+        color: $white;
+        background: $yellow;
+      }
+    }
+  }
+}

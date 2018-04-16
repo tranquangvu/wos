@@ -1,0 +1,20 @@
+.phone-verify-container {
+  background: $white;
+  min-height: 100vh;
+  text-align: center;
+  padding-top: calc(50vh - 59px);
+
+  h1 {
+    color: $red;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .verify-form {
+    margin: 15px 10%;
+  }
+
+  .ant-alert-error {
+    margin-bottom: 5px;
+  }
+}

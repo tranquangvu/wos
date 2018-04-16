@@ -1,0 +1,74 @@
+.select-location-container {
+  min-height: calc(100vh - 100px);
+  margin: 50px 0;
+  background: $white;
+  padding: 10px;
+  font-size: 13px;
+
+  .select-location-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: $red;
+  }
+
+  .location-radio-group {
+    display: block;
+    margin: 20px 0;
+
+    .ant-radio-wrapper {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      margin-top: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px dashed #bdbdbd;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    .radio-content {
+      display: block;
+      width: 100%;
+      padding-left: 10px;
+
+      .name {
+        display: block;
+        margin-bottom: 2.5px;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 1.25;
+        color: rgba($black, .5);
+      }
+
+      .address {
+        display: block;
+        font-size: 14px;
+        line-height: 1.25;
+        color: rgba($black, .4);
+      }
+    }
+  }
+
+  .ant-form-item {
+    margin-bottom: 0;
+  }
+
+  .submit-location-button {
+    display: block;
+    width: 100%;
+    height: auto;
+    color: $white;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: bold;
+    background: $red;
+    border-color: $red !important;
+    margin-bottom: 20px;
+
+    &:after {
+      display: none !important;
+    }
+  }
+}

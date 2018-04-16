@@ -1,0 +1,2 @@
+export const MODIFIER_MODAL = 'MODIFIER_MODAL';
+export const COUPON_MODAL = 'COUPON_MODAL';

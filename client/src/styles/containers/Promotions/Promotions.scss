@@ -1,0 +1,13 @@
+.promotions-container {
+  min-height: calc(100vh - 100px);
+  margin: 50px 0;
+  background: $white;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    color: rgba($black, .4);
+  }
+}

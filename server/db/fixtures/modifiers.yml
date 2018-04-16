@@ -1,0 +1,167 @@
+_fixture:
+  model_class: Modifier
+
+# Food
+modifier_onion:
+  code: 1000552
+  name: Onion
+
+modifier_chesse:
+  code: 1000553
+  name: Chesse
+
+# Open
+modifier_less_chesse:
+  code: 1000310
+  name: Less Chesse
+
+modifier_no_chesse:
+  code: 1000310
+  name: No Chesse
+
+modifier_no_mazane:
+  code: 1000310
+  name: No mazane
+
+# Size
+modifier_small:
+  code: 1000547
+  name: Small
+
+# Drink
+modifier_hot:
+  code: 1000571
+  name: Hot
+
+modifier_cold:
+  code: 1000572
+  name: Cold
+
+modifier_no_ice:
+  code: 1000604
+  name: No Ice
+
+# Crust
+modifier_thick:
+  code: 1000590
+  name: Thick
+
+# Pizza Half
+modifier_half:
+  code: 1001238
+  name: Half
+
+# Orignal Recipe Chicken
+modifier_original_recipe_chicken_01_pc:
+  code: 1001600
+  name: Original Recipe Chicken 01 Pc
+
+# French Fries
+modifier_french_fries_r:
+  code: 1001602
+  name: French Fries (R)
+
+modifier_french_fries_l:
+  code: 1002743
+  name: French Fries (L)
+
+# Pepsi
+modifier_pepsi_r:
+  code: 1001604
+  name: Pepsi (R)
+
+modifier_pepsi_l:
+  code: 1002744
+  name: Pepsi (L)
+
+# Mased Potato (R)
+modifier_mashed_potator_r:
+  code: 1001621
+  name: Mashed Potator (R)
+
+# Coleslaw (R)
+modifier_coleslaw_r:
+  code: 1001623
+  name: Coleslaw (R)
+
+# Buger
+modifier_zinger_burger:
+  code: 1001692
+  name: Zinger Burger
+
+modifier_shirmp_burger:
+  code: 1001705
+  name: Shirmp Burger
+
+# ChickyMeal_G1
+modifier_original_recipe_chicken_01_pcs:
+  code: 1002713
+  name: Original Recipe Chicken (01 Pcs)
+
+modifier_crispy_strips_chicken_03_pcs:
+  code: 1002714
+  name: Crispy Strips Chicken 3Pcs
+
+modifier_shirmp_burger:
+  code: 1002716
+  name: Shirmp Burger
+
+# ChickyMeal_G2
+modifier_french_fries_r:
+  code: 1002718
+  name: French Fries (R)
+
+modifier_chicky_meal_g2_mashed_potator_r:
+  code: 1002719
+  name: Mashed Potator (R)
+
+# ChickyMeal_G3
+modifier_corn:
+  code: 1002725
+  name: Corn
+
+# XLMeal_G1
+modifier_xlmeal_g1_original_recipe_chicken_01_pcs:
+  code: 1002735
+  name: Original Recipe Chicken (01 Pcs)
+
+# Share N Joy A (G1)
+modifier_original_recipe_chicken_06_pcs:
+  code: 1002749
+  name: Original Recipe Chicken (06 Pcs)
+
+# French Fires (J)
+modifier_french_fries_j:
+  code: 1002751
+  name: French Fries (J)
+
+# Mashed Potato (J)
+modifier_mashed_potato_j:
+  code: 1002753
+  name: Mashed Potato (J)
+
+# Buger Add On
+modifier_50_cheese:
+  code: 1003874
+  name: 50% Cheese
+
+modifier_more_1_cheese:
+  code: 1003874
+  name: More 1 Chesse
+
+modifier_100_cheese:
+  code: 1003882
+  name: 100% Cheese
+
+modifier_more_2_cheese:
+  code: 1003882
+  name: More 2 Chesse
+
+# Note
+modifier_quickly:
+  code: 1004186
+  name: Quickly
+
+modifier_print_return_dishes:
+  code: 1004190
+  name: Print return dishes

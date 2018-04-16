@@ -1,0 +1,10 @@
+_fixture:
+  model_class: Shop
+
+shop1:
+  name: Dcorp Hồ Chí Minh
+  address: 48 Trần Quý Khoách, P. Tân Định, Q.1, Tp. HCM
+
+shop2:
+  name: Dcorp Hà Nội
+  address: 285  Đội Cấn, Q. Ba Đình, Hà Nội

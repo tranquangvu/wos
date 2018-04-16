@@ -1,0 +1,19 @@
+.coupon-modal-container {
+  .ant-modal-close-x {
+    color: $white;
+  }
+
+  .ant-modal-header {
+    background: $orange;
+
+    .ant-modal-title {
+      color: $white;
+      font-weight: bold;
+    }
+  }
+
+  .submit-coupon-button {
+    display: block;
+    margin: 0 auto;
+  }
+}

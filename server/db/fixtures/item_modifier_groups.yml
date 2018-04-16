@@ -1,0 +1,138 @@
+_fixture:
+  model_class: ItemModifierGroup
+
+img1:
+  modifier_group: modifier_group_buger_add_on
+  item: item_1001506
+
+img2:
+  modifier_group: modifier_group_note
+  item: item_1001506
+
+img3:
+  modifier_group: modifier_group_buger_add_on
+  item: item_1001504
+
+img4:
+  modifier_group: modifier_group_note
+  item: item_1001505
+
+img5:
+  modifier_group: modifier_group_chicky_meal_g3
+  item: item_1002731
+
+img6:
+  modifier_group: modifier_group_pepsi
+  item: item_1001610
+
+img7:
+  modifier_group: modifier_group_buger
+  item: item_1001706
+
+img8:
+  modifier_group: modifier_group_buger
+  item: item_1001699
+
+img9:
+  modifier_group: modifier_group_xlmeal_g1
+  item: item_1002745
+
+img10:
+  modifier_group: modifier_group_note
+  item: item_1001578
+
+img11:
+  modifier_group: modifier_group_open
+  item: item_1002721
+
+img12:
+  modifier_group: modifier_group_drink
+  item: item_1001579
+
+img13:
+  modifier_group: modifier_group_drink
+  item: item_1001574
+
+img14:
+  modifier_group: modifier_group_drink
+  item: item_1001573
+
+img15:
+  modifier_group: modifier_group_drink
+  item: item_1001577
+
+img16:
+  modifier_group: modifier_group_note
+  item: item_1001576
+
+img17:
+  modifier_group: modifier_group_note
+  item: item_1001556
+
+img18:
+  modifier_group: modifier_group_food
+  item: item_1001550
+
+img18:
+  modifier_group: modifier_group_note
+  item: item_1001555
+
+img19:
+  modifier_group: modifier_group_food
+  item: item_1001549
+
+img20:
+  modifier_group: modifier_group_note
+  item: item_1001552
+
+img21:
+  modifier_group: modifier_group_food
+  item: item_1002671
+
+img22:
+  modifier_group: modifier_group_food
+  item: item_1001484
+
+img23:
+  modifier_group: modifier_group_note
+  item: item_1001554
+
+img24:
+  modifier_group: modifier_group_food
+  item: item_1001548
+
+img25:
+  modifier_group: modifier_group_food
+  item: item_1002684
+
+img26:
+  modifier_group: modifier_group_note
+  item: item_1002700
+
+img27:
+  modifier_group: modifier_group_food
+  item: item_1002688
+
+img28:
+  modifier_group: modifier_group_open
+  item: item_1002696
+
+img29:
+  modifier_group: modifier_group_open
+  item: item_1001513
+
+img30:
+  modifier_group: modifier_group_open
+  item: item_1001511
+
+img31:
+  modifier_group: modifier_group_note
+  item: item_1001499
+
+img32:
+  modifier_group: modifier_group_open
+  item: item_1001502
+
+img33:
+  modifier_group: modifier_group_open
+  item: item_1001501

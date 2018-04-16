@@ -1,0 +1,21 @@
+.ant-spin {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -16px;
+  margin-left: -16px;
+}
+
+.vertical-center-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-center-modal .ant-modal {
+  top: 0;
+}
+
+.main-layout-container {
+  background: $white;
+}

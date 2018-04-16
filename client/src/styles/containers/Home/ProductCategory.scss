@@ -1,0 +1,22 @@
+.product-category-container {
+  .product-category-title {
+    color: $orange;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+    i {
+      margin-right: 10px;
+    }
+  }
+
+  .product-category-items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    &:after {
+      content: '';
+      flex-grow: 999999999;
+    }
+  }
+}

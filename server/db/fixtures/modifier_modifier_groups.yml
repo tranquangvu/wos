@@ -1,0 +1,167 @@
+_fixture:
+  model_class: ModifierModifierGroup
+
+# Food
+mmg1:
+  modifier_group: modifier_group_food
+  modifier: modifier_onion
+
+mmg2:
+  modifier_group: modifier_group_food
+  modifier: modifier_chesse
+
+# Open
+mmg3:
+  modifier_group: modifier_group_open
+  modifier: modifier_less_chesse
+
+mmg4:
+  modifier_group: modifier_group_open
+  modifier: modifier_no_chesse
+
+mmg5:
+  modifier_group: modifier_group_open
+  modifier: modifier_no_mazane
+
+# Size
+mmg6:
+  modifier_group: modifier_group_size
+  modifier: modifier_small
+
+# Drink
+mmg7:
+  modifier_group: modifier_group_drink
+  modifier: modifier_hot
+
+mmg8:
+  modifier_group: modifier_group_drink
+  modifier: modifier_cold
+
+mmg9:
+  modifier_group: modifier_no_ice
+  modifier: modifier_cold
+
+# Crust
+mmg10:
+  modifier_group: modifier_group_crust
+  modifier: modifier_thick
+
+# Pizza Half
+mmg11:
+  modifier_group: modifier_group_pizza_half
+  modifier: modifier_half
+
+# Orignal Recipe Chicken
+mmg12:
+  modifier_group: modifier_group_orignal_recipe_chicken
+  modifier: modifier_original_recipe_chicken_01_pc
+
+# French Fries
+mmg13:
+  modifier_group: modifier_group_french_fries
+  modifier: modifier_french_fries_r
+
+mmg14:
+  modifier_group: modifier_group_french_fries
+  modifier: modifier_french_fries_l
+
+# Pepsi
+mmg15:
+  modifier_group: modifier_group_pepsi
+  modifier: modifier_pepsi_r
+
+mmg16:
+  modifier_group: modifier_group_pepsi
+  modifier: modifier_pepsi_l
+
+# Mased Potato (R)
+mmg17:
+  modifier_group: modifier_group_mased_potato_r
+  modifier: modifier_mashed_potator_r
+
+# Coleslaw (R)
+mmg18:
+  modifier_group: modifier_group_coleslaw_r
+  modifier: modifier_coleslaw_r
+
+# Buger
+mmg19:
+  modifier_group: modifier_group_mased_potato_r
+  modifier: modifier_zinger_burger
+
+mmg20:
+  modifier_group: modifier_group_mased_potato_r
+  modifier: modifier_shirmp_burger
+
+# ChickyMeal_G1
+mmg21:
+  modifier_group: modifier_group_chicky_meal_g1
+  modifier: modifier_original_recipe_chicken_01_pcs
+
+mmg22:
+  modifier_group: modifier_group_chicky_meal_g1
+  modifier: modifier_crispy_strips_chicken_03_pcs
+
+mmg23:
+  modifier_group: modifier_group_chicky_meal_g1
+  modifier: modifier_shirmp_burger
+
+# ChickyMeal_G2
+mmg24:
+  modifier_group: modifier_group_chicky_meal_g2
+  modifier: modifier_french_fries_r
+
+mmg25:
+  modifier_group: modifier_group_chicky_meal_g2
+  modifier: modifier_chicky_meal_g2_mashed_potator_r
+
+# ChickyMeal_G3
+mmg26:
+  modifier_group: modifier_group_chicky_meal_g3
+  modifier: modifier_corn
+
+# XLMeal_G1
+mmg27:
+  modifier_group: modifier_group_xlmeal_g1
+  modifier: modifier_xlmeal_g1_original_recipe_chicken_01_pcs
+
+# Share N Joy A (G1)
+mmg28:
+  modifier_group: modifier_group_share_n_joy_a_g1
+  modifier: modifier_original_recipe_chicken_06_pcs
+
+# French Fires (J)
+mmg29:
+  modifier_group: modifier_group_french_fires_j
+  modifier: modifier_french_fries_j
+
+# Mashed Potato (J)
+mmg30:
+  modifier_group: modifier_group_mased_opotato_j
+  modifier: modifier_mashed_potato_j
+
+# Buger Add On
+mmg31:
+  modifier_group: modifier_group_buger_add_on
+  modifier: modifier_50_cheese
+
+mmg31:
+  modifier_group: modifier_group_buger_add_on
+  modifier: modifier_more_1_cheese
+
+mmg32:
+  modifier_group: modifier_group_buger_add_on
+  modifier: modifier_100_cheese
+
+mmg33:
+  modifier_group: modifier_group_buger_add_on
+  modifier: modifier_more_2_cheese
+
+# Note
+mmg34:
+  modifier_group: modifier_group_note
+  modifier: modifier_quickly
+
+mmg35:
+  modifier_group: modifier_group_note
+  modifier: modifier_print_return_dishes
